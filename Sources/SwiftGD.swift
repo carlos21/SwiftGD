@@ -1,4 +1,4 @@
-#if canImport(Darwin)
+#if os(macOS)
 import Darwin
 import Cgdmac
 #else
