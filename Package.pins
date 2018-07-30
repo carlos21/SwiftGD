@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "Cgd",
+      "reason": null,
+      "repositoryURL": "https://github.com/carlos21/Cgd.git",
+      "version": "0.0.3"
+    }
+  ],
+  "version": 1
+}
